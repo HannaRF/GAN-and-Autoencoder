@@ -1,6 +1,9 @@
 # GAN-and-Autoencoder
 ## Comparação entre GANs, Autoencoders e Variational Autoencoders
 
+![image](https://github.com/HannaRF/GAN-and-Autoencoder/assets/53839610/4751b714-e85a-41db-a7d1-2fbf8ca231f3)
+
+
 ## Objetivo
 Este repositório visa implementar e comparar modelos generativos, incluindo Autoencoders, Variational Autoencoders (VAEs) e Generative Adversarial Networks (GANs), para a síntese de dados. A avaliação é conduzida no conjunto de dados Fashion MNIST, abordando três configurações de síntese: amostras de treinamento, amostras de teste e síntese estocástica a partir de ruído aleatório.
 
