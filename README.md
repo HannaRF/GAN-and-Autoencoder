@@ -9,7 +9,7 @@ Este repositório visa implementar e comparar modelos generativos, incluindo Aut
 - Comparar resultados de síntese para amostras de treinamento e teste.
 - Avaliar a síntese estocástica utilizando ruído aleatório.
 - Oferecer uma análise estruturada das diferenças observadas entre os modelos e suas configurações de síntese.
-- Discutir como o comportamento observado se relaciona com o embasamento teórico de cada modelo, justificando os resultados com base nas características discutidas em aula.
+- Discutir como o comportamento observado se relaciona com o embasamento teórico de cada modelo.
 
 ## Resultados
 Os resultados são organizados por tipo de modelo (Autoencoders, VAEs, GANs) e configuração de síntese (treinamento, teste, estocástica). A análise proporciona insights sobre discrepâncias observadas, variações de desempenho e justificativas teóricas para os comportamentos identificados.
